@@ -1,1 +1,1 @@
-Write a script that counts the number of directories and sub-directories in the current directory
+Write a command that finds all empty files and directories in the current directory and all sub-directories
