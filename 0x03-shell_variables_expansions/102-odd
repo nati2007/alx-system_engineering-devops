@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n | cut --complement -c-s |grep -v ^[0.2468] | cut --complement -c-2
+cat -n | cut --complement -c-5 | grep -v ^[02468] | cut --complement -c-2
